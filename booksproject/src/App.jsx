@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 import Navbar from "./Components/Navbar";
-import SearchBar from "./Components/SearchBar";
+import SearchBar from "./Components/Searchbar";
 import GenreFilter from "./Components/GenreFilter";
 import BookForm from "./Components/BookForm";
 import BookList from "./Components/BookList";
