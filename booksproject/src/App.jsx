@@ -1,12 +1,12 @@
 import { useEffect, useState } from "react";
 
-import Navbar from "./components/Navbar";
-import SearchBar from "./components/SearchBar";
-import GenreFilter from "./components/GenreFilter";
-import BookForm from "./components/BookForm";
-import BookList from "./components/BookList";
-import Loading from "./components/Loading";
-import ErrorMessage from "./components/ErrorMessage";
+import Navbar from "./Components/Navbar";
+import SearchBar from "./Components/SearchBar";
+import GenreFilter from "./Components/GenreFilter";
+import BookForm from "./Components/BookForm";
+import BookList from "./Components/BookList";
+import Loading from "./Components/Loading";
+import ErrorMessage from "./Components/ErrorMessage";
 
 import {
   getBooks,
